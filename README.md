@@ -129,7 +129,7 @@ AutoManage = true
 
 ---
 
-## 📸 Logs (Optional)
+## 📸 Logs
 
 ![Logs](screenshots/cloudwatch-logs.png)
 
